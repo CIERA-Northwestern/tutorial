@@ -6,6 +6,8 @@ Hi my name is Scotty
 
 # Some change
 Hello
-Domethign
+Do Something
 
-# Something 3 Soemhi
+# Something 3 Something
+
+# Yet another change
